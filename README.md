@@ -11,7 +11,6 @@
 - 😁 I'm the [dubbo-go](https://github.com/apache/dubbo-go) committer
 - 😎 I'm lead the development of [seata-go](https://github.com/seata/seata-go)
 - 😜 I'm also interst on the db. I also participate in development of [arana](https://github.com/arana-db/arana), [pika](https://github.com/OpenAtomFoundation/pika)
-- 📫 How to reach me. [haohongfan.com](https://www.haohongfan.com)
 - 🤩 ...
 
 ![georgehao's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=georgehao&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
